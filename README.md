@@ -77,10 +77,10 @@ Ruby 1.9 fibers позволяют скрыть множественные callb
     
 ### A5
 
-[grab.rb](bin/grab.rb) и 
-[grabber.rb](lib/grabber.rb)
+[grab.rb](answers/blob/master/bin/grab.rb) и 
+[grabber.rb](answers/blob/master/lib/grabber.rb)
 
-спека [grabber_spec.rb](spec/grabber_spec.rb)
+спека [grabber_spec.rb](answers/blob/master/spec/grabber_spec.rb)
  
 ## Level 3
 
@@ -88,9 +88,9 @@ Ruby 1.9 fibers позволяют скрыть множественные callb
 
 Достаю только картинки из тэгов IMG и скачиваю их в 10 потоков
 
-[finder.rb](lib/finder.rb)
+[finder.rb](answers/blob/master/lib/finder.rb)
 
-спека [finder_spec.rb](spec/finder_spec.rb)
+спека [finder_spec.rb](answers/blob/master/spec/finder_spec.rb)
 
 ### A2
 
